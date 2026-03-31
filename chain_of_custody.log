@@ -1,0 +1,81 @@
+2026-03-21 10:27:30,809 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-21 10:58:06,297 | ERROR | Task exception was never retrieved
+future: <Task finished name='Task-5804' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at C:\Users\Mypc\AppData\Roaming\Python\Python314\site-packages\tornado\websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "C:\Users\Mypc\AppData\Roaming\Python\Python314\site-packages\tornado\websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mypc\AppData\Roaming\Python\Python314\site-packages\tornado\websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2026-03-21 10:59:18,784 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-21 11:03:51,405 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-21 11:03:53,475 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 11:03:57,083 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-21 11:03:57,701 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 11:04:03,210 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 11:04:37,814 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls yesterday" RESULTS=0
+2026-03-21 11:04:42,028 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-21 11:04:43,406 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-21 11:04:45,121 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 11:09:28,508 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 11:13:15,293 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 11:14:29,884 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-21 11:17:06,490 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 11:21:02,136 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-21 11:28:15,524 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 11:28:57,117 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-21 17:02:21,070 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-21 17:14:54,749 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 17:15:38,093 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-21 17:21:56,812 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 17:25:04,579 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 17:25:05,838 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=108
+2026-03-21 17:26:20,956 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=18
+2026-03-23 12:00:48,087 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:01:05,676 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:01:17,994 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:02:10,141 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:19:34,575 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:19:40,734 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:19:45,239 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:21:53,686 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:24:45,428 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:24:49,434 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:24:53,274 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:25:03,320 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:25:07,305 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls yesterday" RESULTS=0
+2026-03-23 12:25:10,103 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-23 12:25:39,479 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:25:47,525 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:25:49,499 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:25:50,879 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:25:52,481 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls yesterday" RESULTS=0
+2026-03-23 12:25:54,629 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-23 12:28:04,924 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:28:47,751 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:28:57,586 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:29:11,703 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:29:20,313 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls yesterday" RESULTS=0
+2026-03-23 12:29:27,747 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-23 12:30:51,897 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:45:04,262 | INFO | USER="Harika" QUERY="[CASE-2026-0052] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:47:06,710 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:49:15,304 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:49:42,619 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:50:04,700 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:50:43,253 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:50:57,003 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-23 12:51:09,723 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:55:01,428 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:56:23,835 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls from 9876543210 last week" RESULTS=14
+2026-03-23 12:56:47,862 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls between 9123456789 and 9876543210" RESULTS=247
+2026-03-23 12:57:00,001 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] All calls longer than 120 seconds last month" RESULTS=97
+2026-03-23 12:57:10,887 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls from 9000011111 after 2024-12-01" RESULTS=126
+2026-03-23 12:57:20,807 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Show calls yesterday" RESULTS=0
+2026-03-23 12:57:26,035 | INFO | USER="Det. Smith #4421" QUERY="[CASE-2026-0042] Calls before 2026-03-01" RESULTS=319
+2026-03-23 12:59:10,250 | INFO | USER="Det. Sumithra #221" QUERY="[CASE-2026-0052] Calls before 2026-03-01" RESULTS=319
