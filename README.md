@@ -1,6 +1,4 @@
 # 🔍 CDR Forensic Analyst — AI-Powered Chatbot
-### Police Hackathon Prototype
-
 An open-source, AI-assisted tool for law-enforcement investigators to analyze **Telecom Call Detail Records (CDRs)** using natural language queries — with interactive visualizations and a built-in chain-of-custody audit trail.
 
 ---
@@ -49,7 +47,7 @@ featuring 3 "suspect" numbers with elevated call activity.
 
 ### 5. Launch the app
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 Open your browser to **http://localhost:8501**
 
